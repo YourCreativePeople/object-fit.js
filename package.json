@@ -1,0 +1,27 @@
+{
+  "name": "object-fit.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/torymartin88/object-fit.js.git"
+  },
+  "author": "Michael Golus & Tory Martin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/torymartin88/object-fit.js/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-rename": "~1.2.0",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.3.0",
+    "gulp-jshint": "~1.5.5",
+    "gulp-watch": "~0.6.4",
+    "express": "~4.2.0"
+  }
+}
